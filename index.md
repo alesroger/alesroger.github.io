@@ -50,4 +50,4 @@ For this course at the University of Zurich, we investigated Kaggle’s free dat
 
 ---
 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a> and <a href="https://github.com/mattschapman/mattschapman.github.io mattschapmann">mattschapman</a></p>
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a> and <a href="https://github.com/mattschapman/mattschapman.github.io">mattschapman</a></p>
