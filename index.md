@@ -3,14 +3,13 @@
 
 ---
 
-### Revenue Implications of Single Software Subscriptions (BSc Thesis)
+### Investment recommendations for US stocks (ML in Finance Seminar)
 
-For my BSc Thesis at the Univeristy of Zurich I used Python to study how a publisher can maximize his revenue: Offer perpetual licenses, subscription licenses, or both. The code uses backward induction and differential evolution to find the optimum.
+For this course at the University of Zurich, we investigated [Kaggle's free dataset](https://www.kaggle.com/datasets/cnic92/200-financial-indicators-of-us-stocks-20142018) of financial indicators of US stocks to produce optimal buy/hold/sell strategy recommendations for shares with respect to the S&P500 performance of the respective year. I.e., outperforming the S&P500 by more than 2.5 percentage points for the respective year was defined as an optimal Buy-Action, etc. After detailed preprocessing, we tried multiple ML algorithms. Random Forest achieved a score of 0.61 which could create advantages on the stock market but is far from optimal. This comes as expected - otherwise, I would be rich now:) 
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
-Find my Thesis [here] (https://alesroger.github.io/pdf/Bachelor's_thesis.pdf).
-[View code on Github](https://github.com/alesroger/bachelor_thesis)
+[View code on Github](https://github.com/alesroger/ML_in_Finance_2021_GROUP_1) 
 
 ---
 
