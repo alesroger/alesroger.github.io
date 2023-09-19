@@ -1,10 +1,9 @@
-## Selected projects in data science, machine learning and NLP
-
+## Selected projects in data science
 ---
 
-### Investment recommendations for US stocks (ML in Finance Seminar)
+### Brain Age Prediction (Advanced Machine Learning ETH)
 
-For this course at the University of Zurich, we investigated [Kaggle's free dataset](https://www.kaggle.com/datasets/cnic92/200-financial-indicators-of-us-stocks-20142018) of financial indicators of US stocks to produce optimal buy/hold/sell strategy recommendations for shares with respect to the S&P500 performance of the respective year. I.e., outperforming the S&P500 by more than 2.5 percentage points for the respective year was defined as an optimal Buy-Action, etc. After detailed preprocessing, we tried multiple ML algorithms. Random Forest achieved a score of 0.61 which could create advantages on the stock market but is far from optimal. This comes as expected - otherwise, I would be rich now:) 
+For this course at ETH Zurich, we predicted the age of a brain from MRI features that were perturbed by hand to make simple regression results invalid. Outlier detection, feature selection, and imputation of missing values were necessary to achieve a good score with an ensemble model out of gradient boosting, support vector regressor, and elastic net. 
 
 <img src="images/sell_buy_hold.png?raw=true" />
 
@@ -14,7 +13,19 @@ For this course at the University of Zurich, we investigated [Kaggle's free data
 
 ---
 
-### Revenue Implications of Single Software Subscriptions (BSc Thesis)
+### Expected Goals (XG) Model (Soccer Analytics ETH)
+
+Expected Goals are a measure in sports (especially soccer) to estimate the performance of a team. Its goal is to deliver further insights compared to shots on goal, i.e. include how big the opportunity to score a goal from a certain position is. Distance and angle to the goal together with the type of shot (foot, head, penalty, etc.) are the most important features used to build such a model. For the Soccer Analytics course at ETH Zurich we had access to the whole FIFA dataset of the Men's World Cup 2022 in Qatar. Since I investigated a single game, I used all other games as training (and validation) data to build the logistic regression model. I could then use this model to measure the expected goals of both teams in the game I investigated. 
+
+<img src="images/sell_buy_hold.png?raw=true" />
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+
+Due to legal reasons, please ask for the code personally.
+
+---
+
+### Revenue Implications of Single Software Subscriptions (BSc Thesis UZH)
 
 For my BSc Thesis at the Univeristy of Zurich I used Python to study how a publisher (e.g. video game publisher) can maximize its revenue: Offer perpetual licenses, subscription licenses, or both. The code uses backward induction and differential evolution to find the optimum for different settings.
 
@@ -25,6 +36,18 @@ For my BSc Thesis at the Univeristy of Zurich I used Python to study how a publi
 Find my Thesis [here](https://alesroger.github.io/pdf/Bachelor's_thesis.pdf)
 
 [View code on Github](https://github.com/alesroger/bachelor_thesis)
+
+---
+
+### Investment recommendations for US stocks (ML in Finance Seminar UZH)
+
+For this course at the University of Zurich, we investigated Kaggle’s free dataset of financial indicators of US stocks to produce optimal buy/hold/sell strategy recommendations for shares with respect to the S&P500 performance of the respective year. I.e., outperforming the S&P500 by more than 2.5 percentage points for the respective year was defined as an optimal Buy-Action, etc. After detailed preprocessing, we tried multiple ML algorithms. Random Forest achieved a score of 0.61 which could create advantages on the stock market but is far from optimal which comes as expected.
+
+<img src="images/sell_buy_hold.png?raw=true" />
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+
+[View code on Github](https://github.com/alesroger/ML_in_Finance_2021_GROUP_1) 
 
 ---
 
