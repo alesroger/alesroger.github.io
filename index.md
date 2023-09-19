@@ -19,7 +19,7 @@ For my BSc Thesis at the Univeristy of Zurich I used Python to study how a publi
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 
-Find my Thesis [here] (https://alesroger.github.io/pdf/Bachelor's_thesis.pdf).
+Find my Thesis [here](https://alesroger.github.io/pdf/Bachelor's_thesis.pdf)
 
 [View code on Github](https://github.com/alesroger/bachelor_thesis)
 
