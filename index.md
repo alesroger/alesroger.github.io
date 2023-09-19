@@ -1,5 +1,19 @@
 ## Selected projects in data science, machine learning and NLP
 
+
+---
+
+### Revenue Implications of Single Software Subscriptions (BSc Thesis)
+
+For my BSc Thesis at the Univeristy of Zurich I used Python to study how a publisher can maximize his revenue: Offer perpetual licenses, subscription licenses, or both. The code uses backward induction and differential evolution to find the optimum.
+
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+
+Find my Thesis here.
+
+[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+
 ---
 
 ### Deep NLP for hate speech detection
