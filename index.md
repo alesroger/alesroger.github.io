@@ -50,6 +50,9 @@ For this course at the University of Zurich, we investigated Kaggle’s free dat
 
 ---
 
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a> and <a href="https://github.com/mattschapman/mattschapman.github.io mattschapmann">mattschapman</a></p>
+
+
 ### Deep NLP for hate speech detection
 
 Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
