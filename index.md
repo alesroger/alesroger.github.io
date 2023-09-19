@@ -9,6 +9,9 @@ For this course at the University of Zurich, we investigated [Kaggle's free data
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
+<img src="images/sell_buy_hold.png?raw=true" />
+
+
 [View code on Github](https://github.com/alesroger/ML_in_Finance_2021_GROUP_1) 
 
 ---
@@ -16,6 +19,8 @@ For this course at the University of Zurich, we investigated [Kaggle's free data
 ### Revenue Implications of Single Software Subscriptions (BSc Thesis)
 
 For my BSc Thesis at the Univeristy of Zurich I used Python to study how a publisher (e.g. video game publisher) can maximize its revenue: Offer perpetual licenses, subscription licenses, or both. The code uses backward induction and differential evolution to find the optimum for different settings.
+
+<img src="images/bsc_thesis_figure.png?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 
