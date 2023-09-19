@@ -1,16 +1,14 @@
 ## Selected projects in data science, machine learning and NLP
 
-
 ---
 
 ### Investment recommendations for US stocks (ML in Finance Seminar)
 
 For this course at the University of Zurich, we investigated [Kaggle's free dataset](https://www.kaggle.com/datasets/cnic92/200-financial-indicators-of-us-stocks-20142018) of financial indicators of US stocks to produce optimal buy/hold/sell strategy recommendations for shares with respect to the S&P500 performance of the respective year. I.e., outperforming the S&P500 by more than 2.5 percentage points for the respective year was defined as an optimal Buy-Action, etc. After detailed preprocessing, we tried multiple ML algorithms. Random Forest achieved a score of 0.61 which could create advantages on the stock market but is far from optimal. This comes as expected - otherwise, I would be rich now:) 
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
-
 <img src="images/sell_buy_hold.png?raw=true" />
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
 [View code on Github](https://github.com/alesroger/ML_in_Finance_2021_GROUP_1) 
 
