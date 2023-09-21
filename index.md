@@ -24,9 +24,11 @@ Due to legal reasons, please ask for the code.
 
 ---
 
-### Risk Assessment of a region facing tropical cyclones with Climada (Climate Change Uncertainty and Risk ETH)
+### Risk Assessment of Taiwan facing tropical cyclones with Climada (Climate Change Uncertainty and Risk ETH)
 
 For this group work, we used the functionality of [Climada](https://wcr.ethz.ch/research/climada.html) to first investigate the intensity of Tropical Cyclones in Taiwan. To then understand possible damages from such a single event or events over time, we first defined the exposure and vulnerability of the assets (and people) in Taiwan. The impact of events can then be calculated, also taking uncertainty into account. Further, we created Climate Change Scenarios, i.e. we calculated possible damages in later years due to higher wind speeds expected due to climate change. In the end, the goal was to calculate the total climate risk of tropical cyclones for the country facing economic growth (more valuable assets) and climate change (more frequent and stronger cyclones).
+
+<img src="images/climada.png?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) 
 
