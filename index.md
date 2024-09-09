@@ -14,7 +14,7 @@ Due to legal reasons, please ask for the code.
 As part of a four-person team, we explored using Latent Diffusion Models (LDM) for generating segmentation masks in images. Although LDMs are primarily designed for generating high-quality images from text prompts, their latent space can be leveraged for image segmentation. We investigate methods to enhance latent segmentation resolution in a zero-shot unsupervised setting by integrating image pixel information or extracting additional data from the Variational Autoencoder (VAE) within the LDM.
 
 
-<img src="images/LDMs.png?raw=true" />
+<img src="images/segment_cat.png?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
@@ -24,7 +24,7 @@ As part of a four-person team, we explored using Latent Diffusion Models (LDM) f
 ---
 
 ### Predicting Bike Availability at PubliBike Stations in Zurich (Supervised Research)
-In this ETH Supervised Research Project, I collaborated with [PubliBike](https://www.publibike.ch/de/home)), a bike-sharing provider in Switzerland. I trained four different models, including a Long Short-Term Memory (LSTM) model, to predict the number of bikes at PubliBike stations in Zurich in the future. This prediction could help reduce the need for physical redistribution of bikes.
+In this ETH Supervised Research Project, I collaborated with [PubliBike](https://www.publibike.ch/de/home), a bike-sharing provider in Switzerland. I trained four different models, including a Long Short-Term Memory (LSTM) model, to predict the number of bikes at PubliBike stations in Zurich in the future. This prediction could help reduce the need for physical redistribution of bikes.
 
 <img src="images/publibike.png?raw=true" />
 
