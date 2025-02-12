@@ -7,6 +7,7 @@ In the Computational Cancer Genomics Lab at ETH Zurich (led by Prof. Valentina B
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" width="70" height="20"></a>
 
+---
 
 ### Building a RAG with open-source LLMs (Data Science Lab)
 During this Data Science Lab with two friends, we used a retrieval-augmented generation (RAG) approach to improve Visual Question Answering (VQA) for multi-page technical documents. Unlike traditional models with limited context sizes, RAG integrates an open-source language model to handle larger contexts without retraining. We evaluated its performance on two VQA datasets using a custom metric, GPTscore, designed to measure response accuracy. While our model did not outperform state-of-the-art benchmarks, we uncovered limitations in current datasets and evaluation methods.
@@ -18,6 +19,7 @@ During this Data Science Lab with two friends, we used a retrieval-augmented gen
 Due to legal reasons, please ask for the code.
 
 ---
+
 ### Precise Segmentation Using the Latent Space of Latent Diffusion Models (Deep Learning course)
 As part of a four-person team, we explored using Latent Diffusion Models (LDM) for generating segmentation masks in images. Although LDMs are primarily designed for generating high-quality images from text prompts, their latent space can be leveraged for image segmentation. We investigate methods to enhance latent segmentation resolution in a zero-shot unsupervised setting by integrating image pixel information or extracting additional data from the Variational Autoencoder (VAE) within the LDM.
 
