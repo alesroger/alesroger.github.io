@@ -3,9 +3,9 @@
 ### Applying foundation models to pathology and scRNA to learn aligned latent space (Master Thesis until May 2025)
 In the Computational Cancer Genomics Lab at ETH Zurich (led by Prof. Valentina Boeva), I work with multimodal cancer data to enhance cancer diagnosis on a single-cell level. H&E stained images are a pathologist gold standard for cancer diagnosis, while gene expression data from the Xenium technology is a state-of-the-art method when it comes to single-cell RNA sequencing. My research focuses on learning a latent space that aligns these two data modalities, enabling more precise cancer cell-type diagnosis - something that would have been unthinkable just a few years ago.
 
-<img src="images/MA_architecture.png?raw=true" />
+<img src="images/MA_architecture.png?raw=true" width="500"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Pytho&logoWidth=40)](#) [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&logoWidth=40)](#)
 
 
 ### Building a RAG with open-source LLMs (Data Science Lab)
