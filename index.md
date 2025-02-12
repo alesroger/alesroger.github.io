@@ -5,7 +5,7 @@ In the Computational Cancer Genomics Lab at ETH Zurich (led by Prof. Valentina B
 
 <img src="images/MA_architecture.png?raw=true" width="500"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Pytho&logoWidth=40)](#) [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&logoWidth=40)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&logoWidth=20)](#)
 
 
 ### Building a RAG with open-source LLMs (Data Science Lab)
