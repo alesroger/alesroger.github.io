@@ -5,7 +5,7 @@ In the Computational Cancer Genomics Lab at ETH Zurich (led by Prof. Valentina B
 
 <img src="images/MA_architecture.png?raw=true" width="500"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&logoWidth=20)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" width="70" height="20"></a>
 
 
 ### Building a RAG with open-source LLMs (Data Science Lab)
@@ -24,7 +24,7 @@ As part of a four-person team, we explored using Latent Diffusion Models (LDM) f
 
 <img src="images/segment_cat.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" width="70" height="20"></a>
 
 
 [View code on GitLab](https://gitlab.ethz.ch/tehrensperge/ldmsegmentation)
@@ -36,7 +36,7 @@ In this ETH Supervised Research Project, I collaborated with [PubliBike](https:/
 
 <img src="images/publibike.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" width="70" height="20"></a>
 
 
 Due to legal reasons, please ask for the code.
