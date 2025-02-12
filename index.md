@@ -1,5 +1,13 @@
 ## Selected projects in data science
 
+### Applying foundation models to pathology and scRNA to learn aligned latent space (Master Thesis until May 2025)
+In the Computational Cancer Genomics Lab at ETH Zurich (led by Prof. Valentina Boeva), I work with multimodal cancer data to enhance cancer diagnosis on a single-cell level. H&E stained images are a pathologist gold standard for cancer diagnosis, while gene expression data from the Xenium technology is a state-of-the-art method when it comes to single-cell RNA sequencing. My research focuses on learning a latent space that aligns these two data modalities, enabling more precise cancer cell-type diagnosis - something that would have been unthinkable just a few years ago.
+
+<img src="images/MA_architecture.png?raw=true" />
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
+
+
 ### Building a RAG with open-source LLMs (Data Science Lab)
 During this Data Science Lab with two friends, we used a retrieval-augmented generation (RAG) approach to improve Visual Question Answering (VQA) for multi-page technical documents. Unlike traditional models with limited context sizes, RAG integrates an open-source language model to handle larger contexts without retraining. We evaluated its performance on two VQA datasets using a custom metric, GPTscore, designed to measure response accuracy. While our model did not outperform state-of-the-art benchmarks, we uncovered limitations in current datasets and evaluation methods.
 
@@ -28,7 +36,8 @@ In this ETH Supervised Research Project, I collaborated with [PubliBike](https:/
 
 <img src="images/publibike.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
+
 
 Due to legal reasons, please ask for the code.
 
